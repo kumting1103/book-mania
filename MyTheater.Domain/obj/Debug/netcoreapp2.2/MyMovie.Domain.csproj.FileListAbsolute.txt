@@ -1,0 +1,9 @@
+D:\!MyPds\Source\MyMovie\MyMovie.Domain\bin\Debug\netcoreapp2.2\MyMovie.Domain.deps.json
+D:\!MyPds\Source\MyMovie\MyMovie.Domain\bin\Debug\netcoreapp2.2\MyMovie.Domain.dll
+D:\!MyPds\Source\MyMovie\MyMovie.Domain\bin\Debug\netcoreapp2.2\MyMovie.Domain.pdb
+D:\!MyPds\Source\MyMovie\MyMovie.Domain\obj\Debug\netcoreapp2.2\MyMovie.Domain.csprojAssemblyReference.cache
+D:\!MyPds\Source\MyMovie\MyMovie.Domain\obj\Debug\netcoreapp2.2\MyMovie.Domain.csproj.CoreCompileInputs.cache
+D:\!MyPds\Source\MyMovie\MyMovie.Domain\obj\Debug\netcoreapp2.2\MyMovie.Domain.AssemblyInfoInputs.cache
+D:\!MyPds\Source\MyMovie\MyMovie.Domain\obj\Debug\netcoreapp2.2\MyMovie.Domain.AssemblyInfo.cs
+D:\!MyPds\Source\MyMovie\MyMovie.Domain\obj\Debug\netcoreapp2.2\MyMovie.Domain.dll
+D:\!MyPds\Source\MyMovie\MyMovie.Domain\obj\Debug\netcoreapp2.2\MyMovie.Domain.pdb
